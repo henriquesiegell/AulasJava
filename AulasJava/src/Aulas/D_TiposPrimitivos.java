@@ -11,6 +11,8 @@ public class D_TiposPrimitivos {
 		char turmaAluno1 = 'A'; // Armazena caracteres
 		char tipoCliente = '2';
 		char simbolo = '@';
+		
+		System.out.println(numeroMaior);
 
 		
 	/*

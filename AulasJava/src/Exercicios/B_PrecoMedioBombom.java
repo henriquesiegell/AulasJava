@@ -10,7 +10,7 @@ public class B_PrecoMedioBombom {
 		
 		int mediaBombom = ( bombomChocolate + bombomBranco + bombomMorango ) / 3;
 		
-		System.out.println("Bombom de chocolate com morango está R$" + bombomMorango); 
+		System.out.println("Bombom de chocolate com morango está R$" + bombomMorango + " reais"); 
 		System.out.println("Bombom de chocolate branco está R$" + bombomBranco); 
 		System.out.println("Bombom de chocolate está R$" + bombomChocolate); 
 		System.out.println("O preço médio dos bombons da loja do seu Zé está custando R$" + mediaBombom);
