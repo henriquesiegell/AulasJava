@@ -1,2 +1,2 @@
 # AulasJava
-Anotações sobre Java | Projetos em Java
+Anotações sobre Java | Exercícios em Java
