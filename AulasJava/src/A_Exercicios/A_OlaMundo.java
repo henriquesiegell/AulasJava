@@ -1,4 +1,4 @@
-package Exercicios;
+package A_Exercicios;
 
 public class A_OlaMundo {
 
