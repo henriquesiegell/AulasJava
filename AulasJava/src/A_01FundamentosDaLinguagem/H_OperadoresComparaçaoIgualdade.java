@@ -1,4 +1,4 @@
-package A_Aulas;
+package A_01FundamentosDaLinguagem;
 
 public class H_OperadoresComparaçaoIgualdade {
 
