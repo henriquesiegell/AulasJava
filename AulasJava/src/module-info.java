@@ -5,6 +5,6 @@
  * @author henri
  *
  */
-module AulasJava {
+module AulasJava001 {
 	requires java.desktop;
 }
