@@ -1,4 +1,4 @@
-package A_Exercicios;
+package B_Exercicios;
 
 public class B_PrecoMedioBombom {
 

@@ -1,4 +1,4 @@
-package A_01FundamentosDaLinguagem;
+package A_FundamentosDaLinguagem;
 
 public class B_Variaveis {
 

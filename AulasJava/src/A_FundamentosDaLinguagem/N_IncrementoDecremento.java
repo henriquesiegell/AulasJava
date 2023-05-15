@@ -1,4 +1,4 @@
-package A_01FundamentosDaLinguagem;
+package A_FundamentosDaLinguagem;
 
 import java.util.Scanner;
 
