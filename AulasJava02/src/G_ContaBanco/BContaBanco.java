@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class BContaBanco {
 
 	public static void main(String[] args) {
-		Scanner entrada = new Scanner(System.in);
 		
 		AContaBanco p1 = new AContaBanco(0, false);
 		p1.setDono("Lilia");
